@@ -1,0 +1,38 @@
+ SIMULADOR DE EMPACADORA DE FRUTAS
+ VERSION V1
+ 30-12-2021
+ Creado por Santiago Torres 
+
+ GUIA DE USO RAPIDO 
+
+ El programa cuenta con 2 interfaces , una en la cual se encontrara la 
+ maquinaria en cuestion mostrando de forma grafica el proceso de empaquetado 
+ y a parte se abrira una ventana de comandos en la cual se vera reflejado 
+ los procesos internos de dicha maquina .
+
+ [+]INTERFAZ DE MAQUINARIA (GRAFICA)
+  En esta interfaz se puede apreciar la maquina y a parte se podran ver otros 5
+botones totalmente funcionales para el uso del usuario con tan solo clickearlos con 
+el mouse los botones disponibles son los siguientes : 
+  (+): Este boton agrega mas fruta a la cantidad establecida para el empaquetado.
+  (-): Este boton quita fruta a la cantidad establecida en el empaquetado.
+  (MARCHA ): Este boton inicia todos los procesos en la maquinaria .  
+  (PARO ): Con este boton detienes completamente "pones en pausa" todos los procesos que esten sucediendo.
+  (REINICIO): Este util boton permite resetear la maquinaria a sus valores iniciales sin necesidad de reiniciar el programa.
+
+ [+]INTERFAZ DE MAQUINARIA (COMANDOS)
+ Una vez se inicie el programa en esta ventana se vera reflejado los datos iniciales en los cuales estan todos los 
+ correspondientes al desarrollador de esta aplicacion incluyendo el nombre de la universidad , una vez iniciado 
+ el programa con todos sus procesos , en esta pantalla se podra ver la fruta predeterminada para cada ciclo de llenado.
+
+
+  (+): Cuando oprima el boton de + vera que en esta pantalla se mostrara graficamente que agrego 1 unidad de fruta  
+  en color amarillo para empaquetar en la caja .
+  (-): Cuando oprima el boton de - vera que en esta pantalla se mostrara graficamente que disminuyo en 1 unidad de fruta 
+   en colo amarillo la cantidad que empaquetara en la caja.
+  (MARCHA): Cuando oprima este boton podra apreciar en esta pantalla con un color verde brillante que el sistema acaba de 
+   iniciar su correspondiente funcionamiento con un contador de frutas "tanto las que estan empacadas por caja como las que se empacaran"
+  (PARO): Cuando oprima este boton las letras en la pantalla se tornaran rojas junto con la palabra de PARO , correspondiente 
+   a que ha detenido el sistema "notese que esto no afecta el contador del sistema".
+  (REINICIO):Cuando presiones este boton se vera reflejado en la pantalla de comandos "en color morado" que acabas de reiniciar
+   el sistema , esto borra los datos de las variables predefinidas y las devuelve a sus valores por defecto "como si no hubiera pasado nada".
